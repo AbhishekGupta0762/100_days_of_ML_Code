@@ -1,7 +1,13 @@
-
 <b>I am following prerequisites for ML code, which are libraries like numpy, pandas, matplotlib, OpenCv, Keras, Scikit-Learn, Tensorflow etc.</b>
-<h1 align = 'center'>Note</h1>
+<h1 align = 'center'>Will i master these libraries if i followed this?</h1>
 <i>The simplest library here is numpy. Before following this routine, one must keep this in mind that even mastering the numpy might take a month. The best way to master library is to apply it on real problems and applications. So during this routine only some basics of each library is studied.</i>
+<h1 align = 'center'>How to follow routine?</h1>
+<li>
+<ol>Make a pledge that you are going to do it.</ol>
+<ol>Atleast 5hrs a day is needed.</ol>
+<ol>And self motivation is necessary.</ol>
+</li>
+
 
 <h1 align = 'center'>What is the plan?</h1>
 <table header = "100DaysOfMLCode Plans">
@@ -65,31 +71,31 @@
   <tr>
     <td>Day 10</td>
     <td>Learn OpenCv</td>
-    <td> Practical Python and OpenCv By Dr. Adrian Rosebrock of Pyimagesearch.com</td>
+    <td> <a href = 'https://drive.google.com/open?id=1On2-fEGxuVNA8J7wi8WgKfQvD1CCuTtv'>Practical Python and OpenCv By Dr. Adrian Rosebrock of Pyimagesearch.com</a></td>
   </tr>
   
   <tr>
     <td>Day 11</td>
     <td>Learn OpenCv</td>
-    <td> Practical Python and OpenCv By Dr. Adrian Rosebrock of Pyimagesearch.com</td>
+    <td> <a href = 'https://drive.google.com/open?id=1On2-fEGxuVNA8J7wi8WgKfQvD1CCuTtv'>Practical Python and OpenCv By Dr. Adrian Rosebrock of Pyimagesearch.com</a></td>
   </tr>
   
   <tr>
     <td>Day 12</td>
     <td>Learn OpenCv</td>
-    <td> Practical Python and OpenCv By Dr. Adrian Rosebrock of Pyimagesearch.com</td>
+    <td> <a href = 'https://drive.google.com/open?id=1On2-fEGxuVNA8J7wi8WgKfQvD1CCuTtv'>Practical Python and OpenCv By Dr. Adrian Rosebrock of Pyimagesearch.com</a></td>
   </tr>
   
   <tr>
     <td>Day 13</td>
     <td>Learn OpenCV</td>
-    <td> Practical Python and OpenCv By Dr. Adrian Rosebrock of Pyimagesearch.com</td>
+    <td> <a href = 'https://drive.google.com/open?id=1On2-fEGxuVNA8J7wi8WgKfQvD1CCuTtv'>Practical Python and OpenCv By Dr. Adrian Rosebrock of Pyimagesearch.com</a></td>
   </tr>
   
   <tr>
     <td>Day 14</td>
     <td>Complete OpenCv</td>
-    <td> Practical Python and OpenCv By Dr. Adrian Rosebrock of Pyimagesearch.com</td>
+    <td> <a href = 'https://drive.google.com/open?id=1On2-fEGxuVNA8J7wi8WgKfQvD1CCuTtv'>Practical Python and OpenCv By Dr. Adrian Rosebrock of Pyimagesearch.com</a></td>
   
    </tr>
   
