@@ -2,11 +2,10 @@
 <h1 align = 'center'>Will i master these libraries if i followed this?</h1>
 <i>The simplest library here is numpy. Before following this routine, one must keep this in mind that even mastering the numpy might take a month. The best way to master library is to apply it on real problems and applications. So during this routine only some basics of each library is studied.</i>
 <h1 align = 'center'>How to follow routine?</h1>
-<li>
 <ol>Make a pledge that you are going to do it.</ol>
 <ol>Atleast 5hrs a day is needed.</ol>
 <ol>And self motivation is necessary.</ol>
-</li>
+
 
 
 <h1 align = 'center'>What is the plan?</h1>
